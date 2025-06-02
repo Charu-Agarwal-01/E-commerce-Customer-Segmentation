@@ -5,7 +5,8 @@ Welcome to the K-Means clustering-based customer segmentation project repository
 
 The E-commerce Customer Segmentation project aims to identify distinct customer groups based on their purchasing behavior and demographic attributes. By applying unsupervised machine learning techniques, the project provides actionable insights that help businesses tailor their marketing strategies, improve customer engagement, and drive sales growth.
 
-📖 Project Overview
+## 📖 Project Overview
+
 This project involves:
 
 1. **Data Collection**: Importing customer data including features like gender, orders, number of times people searched for some products.
@@ -14,7 +15,7 @@ This project involves:
 4 **K-Means Clustering**: Applying the K-Means algorithm to segment customers into distinct groups.
 5 **Insights & Visualization**: Analyzing and visualizing customer segments for business strategy development.
 
-Objective:
+#### Objective:
 -Segment e-commerce customers to enable better decision-making for:
 - **Targeted marketing campaigns**
 - **Personalized customer experience**
