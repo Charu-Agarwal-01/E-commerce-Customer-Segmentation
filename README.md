@@ -8,16 +8,16 @@ The E-commerce Customer Segmentation project aims to identify distinct customer 
 📖 Project Overview
 This project involves:
 
--Data Collection: Importing customer data including features like annual income, spending score, and purchase behavior.
--Data Preprocessing: Cleaning and standardizing the data to prepare it for clustering.
--Feature Selection & Scaling: Selecting relevant features and applying normalization to improve clustering accuracy.
--K-Means Clustering: Applying the K-Means algorithm to segment customers into distinct groups.
--Insights & Visualization: Analyzing and visualizing customer segments for business strategy development.
+1. **Data Collection**: Importing customer data including features like gender, orders, number of times people searched for some products.
+2. **Data Preprocessing**: Cleaning and standardizing the data to prepare it for clustering.
+3. **Feature Scaling**: Selecting relevant features and applying normalization to improve clustering accuracy.
+4 **K-Means Clustering**: Applying the K-Means algorithm to segment customers into distinct groups.
+5 **Insights & Visualization**: Analyzing and visualizing customer segments for business strategy development.
 
 Objective:
 -Segment e-commerce customers to enable better decision-making for:
--**Targeted marketing campaigns**
--**Personalized customer experience**
--**Customer lifetime value analysis**
--**Product recommendations**
--**Improved customer retention strategy**
+- **Targeted marketing campaigns**
+- **Personalized customer experience**
+- **Customer lifetime value analysis**
+- **Product recommendations**
+- **Improved customer retention strategy**
